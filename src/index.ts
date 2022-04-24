@@ -1,0 +1,10 @@
+console.log("Ensamble basico de una PC");
+console.log("1 poner el microprocesador en la placa madre");
+console.log("2 poner las ram en el slot correspondiente de la placa madre");
+console.log("3 abrir la tapa lateral del gabinete y atornillar la placa madre");
+console.log("4 colocar la fuente de poder al gabinete");
+console.log("5 enchufar los cables de la fuente a la placa madre y al HDD");
+console.log("6 poner la GPU a la placa madre y enchufar el cable de la fuente");
+console.log("7 colocar de nuevo la tapa del gabinete");
+console.log("8 encender la pc e instalar w10 recien comprado ;)");
+console.log("9 A disfrutar de la PC Gamer");
